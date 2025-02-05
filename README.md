@@ -1,5 +1,3 @@
-# This file created by Nullwest LLC - contact hello@nullwest.com
-# Simple GPT-4 Chat Application
 
 This is a simple Python application that interacts with OpenAI's GPT-4 model through their API.
 
